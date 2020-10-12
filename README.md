@@ -1,2 +1,2 @@
-# http://sample-httpd
+# sample-httpd
 sample-httpd
